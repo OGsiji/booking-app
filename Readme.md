@@ -1,4 +1,4 @@
-# ATM-project
+# Booking-project
 A simple golang project for booking a reservation
 
 
